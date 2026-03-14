@@ -8,6 +8,5 @@
   - Юнит-экономика
   - А/B тестирование
 #### Контакты
-Telegram: @olga_saipusheva
-
-E-mail: saipushevao@mail.ru
+- Telegram: @olga_saipusheva
+- E-mail: saipushevao@mail.ru
