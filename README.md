@@ -1,8 +1,9 @@
 #### Привет, я Ольга Сайпушева
 Я аналитик данных с опытом работы в системе образования и базовым экономическим образованием. Хорошо пониманию суть бизнес‑процессов и ключевых метрик, умею объясняь сложное просто. 
 #### Навыки:
-  - Python: Pandas, Seaborn, Matplotlib, NumPy, SymPy, SciPy
   - SQL: подзапросы, JOIN, GROUP BY, оконные функции ((PostgreSQL)
+  - Python: Pandas, Seaborn, Matplotlib, NumPy, SymPy, SciPy
+  - Google Sheets
   - Yandex DataLens, Superset
   - Юнит-экономика
   - А/B тестирование
