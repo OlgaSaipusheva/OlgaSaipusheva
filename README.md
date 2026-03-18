@@ -2,11 +2,11 @@
 Я аналитик данных с опытом работы в системе образования и базовым экономическим образованием. Хорошо пониманию суть бизнес‑процессов и ключевые метрики, умею объяснять сложное просто. Ищу возможность внести вклад в команду, где смогу применить свои аналитические и коммуникативные способности.
 #### Навыки:
   - SQL: подзапросы, JOIN, GROUP BY, оконные функции (PostgreSQL)
-  - Python: Pandas, Seaborn, Matplotlib, NumPy, SymPy, SciPy
+  - Python: pandas, NumPy, Seaborn, Matplotlib,  SymPy, SciPy
   - Google Sheets
-  - Yandex DataLens, Superset
+  - Yandex DataLens, Apache Superset
   - Юнит-экономика
   - А/B тестирование
 #### Контакты
 - Telegram: @olga_saipusheva
-- E-mail: saipushevao@mail.ru
+- E-mail: saipushevaos@mail.ru
